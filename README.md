@@ -9,8 +9,6 @@
 
 <br/>
 
-## TL;DR
-
 
 This project was built using these technologies.
 
