@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v.1<br/>
-  <a href="joezercardozaportfolio.firebaseapp.com" target="_blank">Cardoza, Joezer E.
+  <a href="https://joezercardozaportfolio.web.app/" target="_blank">Cardoza, Joezer E.
   </a>
 </h2>
 <div align="center">
